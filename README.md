@@ -22,4 +22,4 @@ The analysis should provide insights that ultimately enhance ROI by allocating m
 * **Market Expansion:** Solidify GameCo's footing in Europe and explore emerging markets for timely expansion.
 * **Filling the Void:** Seize opportunities in high demand gaming genres where giants like Nintendo and Activision have left gaps. 
 
-[Read in more detail about my analysis, shared through the lens of my thought processes and investigative journey on Medium.](https://medium.com/@noortjeoffreins/next-level-gaming-a-portfolio-case-study-ceed8f581e47 "Next-Level Gaming: A portfolio Case Study").
+[Read in more detail about my analysis, shared through the lens of my thought processes and investigative journey on Medium.](https://medium.com/@noortjeoffreins/next-level-gaming-a-portfolio-case-study-ceed8f581e47 "Next-Level Gaming: A portfolio Case Study")
